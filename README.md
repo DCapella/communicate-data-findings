@@ -1,4 +1,8 @@
 # Communicate Data Findings
+
+## Dataset
+* This dataset is about loans and the status of the loans as well as the borrowers.
+
 ## Prosper Loan Data
 113,937 observations with 81 features. I.e. 113,937 rows by 81 columns.
 
@@ -31,6 +35,4 @@ Features that I think will help support my investigation into my features of int
 
 ## Author
 * [David Capella](http://davidcapella.com)
-## Dataset
-* This dataset is about loans and the status of the loans as well as the borrowers.
 
